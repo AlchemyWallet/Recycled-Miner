@@ -1,0 +1,52 @@
+/Mining
+https://www.tomsguide.com/news/what-nvidia-rtx-30-series-shortage-zotac-approves-rtx-stuffed-mining-rig
+
+# Mining with Used MXM Form Factor Cards!
+This gets around our Supply problem.
+We'll have to CNC a heatsink adapter
+Future: Let's Watercool it!
+/MXM Form factor
+/component: MXM to PCI-E Adapter Card
+https://cxtcn.en.alibaba.com/product/60764002720-806673000/New_PCI_E_to_MXM_3_0_Graphics_Expansion_Card_75W_MAX_for_Mining_ETH_ZEC_ETC.html
+/sch:
+https://www.bing.com/images/search?q=mining+with+mxm+form+factor+cards
+/supply
+	/GTX 1070
+	https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l2632&_nkw=gtx+1070+mxm&_sacat=175673
+
+	/RTX 2070
+	https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=rtx+2070+mxm+card&_sacat=0
+
+# Fix and use Broken MXM Cards!
+https://www.ebay.com/itm/NVIDIA-GTX-1070-Mobile-GP104-N17E-G2-A1-8GB-GDDR5X-MXM-Video-Card-UNTESTED/233898964882
+/GPU Reballing
+
+# Fix & Use broken Laptop Motherboards!
+
+# Top.Opportunity: Manufacture our own GPUs using salvaged Laptop components!
+Goal: Manufacture our own Custom Graphics Cards using salvaged & desoldered laptop components!
+desc: All we need is a blank GPU Card and a pick and place machine. The GPU chip is the only thing that has value (not reproducible), Therefore if we learn how to do this, We'll never have a shortage again!
+
+Market.Graph
+	https://www.bing.com/search?q=best+gaming+laptop
+
+	/laptop motherboard GTX 1070
+	https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=laptop+motherboard+gtx+1070&_sacat=0
+
+	/alienware laptop motherboard
+	https://www.bing.com/search?q=alienware+laptop+motherboard
+	https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1312&_nkw=alienware+laptop+motherboard&_sacat=175673
+
+	/msi stealth motherboard
+	https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=msi+stealth+motherboard&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=rtx+2070+mxm+card
+	https://www.bing.com/search?q=gaming+laptop+rtx+3070
+
+Example:
+	Alienware 17 R4 Laptop Motherboard GTX 1070 i7-6820HK 2.7GHz CPU 0147K8 As-Is
+	https://www.ebay.com/itm/Alienware-17-R4-Laptop-Motherboard-GTX-1070-i7-6820HK-2-7GHz-CPU-0147K8-As-Is/402610215929
+	...
+	https://www.ebay.com/itm/XHJ4R-Dell-Intel-Core-i5-9300H-NVIDIA-GeForce-GTX-1660-Motherboard-I3590-5988/164681698537
+
+/Market.Graph
+- news
+https://www.bing.com/search?q=nvidia+no+stock+anywhere
